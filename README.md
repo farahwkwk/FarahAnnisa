@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan saya **Farah Annisa**.\
+Perkenalkan saya **Farah Annisa**
 
-Saya seorang **Mahasiswa IT** di Telkom University.\
+Saya seorang **Mahasiswa IT** di Telkom University
 
 Saya sedang berusaha aktif dalam meningkatkan pengetahuan dan kemampuan dalam dunia teknologi.\
 
